@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../Ads/Shoes"
+		},
+		{
+			"path": "../../Wallpaper"
+		},
+		{
+			"path": "../../Infinite Anime"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Promise Feats"
+	}
+}
